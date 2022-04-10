@@ -1,4 +1,5 @@
-# Weblab x BESG DDia Study Group
+# Weblab x BESG DDIA Study Group
+
 
 由 [Weblab](https://www.facebook.com/weblab.tw) 與 [BESG](https://github.com/kylemocode/BESG) 兩個社群共同發起的實體讀書會，預計一起閱讀 [DDIA](https://github.com/Vonng/ddia) (Designing Data Intensive Application) 這本經典著作。
 
